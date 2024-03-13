@@ -1,0 +1,8 @@
+Model,Accuracy,Precision,Recall,F1
+base:llama-2-7b-chat,0.2992,0.3062,0.2992,0.2768
+ft-2k:llama-2-7b-chat,0.3083,0.3257,0.3083,0.2982
+ft-6k:llama-2-7b-chat,0.3283,0.3375,0.3283,0.3189
+ft-2k:bert-adamw,0.2917,0.3032,0.2917,0.269
+ft-2k:bert-adam,0.2975,0.2864,0.2975,0.2523
+ft-6k:bert-adamw,0.315,0.3158,0.315,0.3004
+ft-6k:bert-adam,0.3175,0.3295,0.3175,0.305
