@@ -1,7 +1,7 @@
 # Optimizing Airline Review Sentiment Analysis: A Comparative Analysis of LLaMA-2 and BERT Models through Fine-Tuning and Few-Shot Learning
 
 ## Under Review Paper
-* **Journal**: [Informatics | An Open Access Journal from MDPI](https://www.mdpi.com/journal/informatics)
+* **Journal**: [Information | An Open Access Journal from MDPI](https://www.mdpi.com/journal/information)
 * **Title**: Optimizing Airline Review Sentiment Analysis: A Comparative Analysis of LLaMA-2 and BERT Models through Fine-Tuning and Few-Shot Learning
 * **DOI**: Pending
 
