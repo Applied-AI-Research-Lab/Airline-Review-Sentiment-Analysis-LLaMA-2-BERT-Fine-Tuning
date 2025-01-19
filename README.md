@@ -1,7 +1,7 @@
 # Optimizing Airline Review Sentiment Analysis: A Comparative Analysis of LLaMA and BERT Models through Fine-Tuning and Few-Shot Learning
 
 ## Article
-* **Journal**: Computers, Materials & Continua
+* **Journal**: [Computers, Materials & Continua](https://www.techscience.com/journal/cmc)
 * **Title**: [Optimizing Airline Review Sentiment Analysis: A Comparative Analysis of LLaMA and BERT Models through Fine-Tuning and Few-Shot Learning](https://www.techscience.com/cmc/online/detail/22351)
 * **DOI**: [https://doi.org/10.32604/cmc.2025.059567](https://doi.org/10.32604/cmc.2025.059567)
 
