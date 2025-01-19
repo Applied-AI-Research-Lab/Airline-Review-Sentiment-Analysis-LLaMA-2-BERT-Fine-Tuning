@@ -6,7 +6,7 @@
 * **DOI**: [https://doi.org/10.32604/cmc.2025.059567](https://doi.org/10.32604/cmc.2025.059567)
 
 ## Authors
-* **Konstantinos I. Roumeliotis**
+* **Dr. Konstantinos I. Roumeliotis**
 * **Prof. Nikolaos D. Tselikas**
 * **Prof. Dimitrios K. Nasiopoulos**
 
